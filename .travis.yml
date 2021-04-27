@@ -19,10 +19,8 @@ deploy:
        bucket_name: "elasticbeanstalk-us-east-1-643027122881"
        bucket_path: "docker-react"
        edge: true
-       access_key_id: 
-             secure: AKIAZLN3HHLAWHXQDXLS
-       secret_aceess_key: 
-             secure: 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
+       access_key_id: AKIAZLN3HHLAWHXQDXLS
+       secret_aceess_key: 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
       on:
          branch: master
             
